@@ -1,4 +1,5 @@
 SEW_12-13
 =========
 
-Schule
+Learning to use git are:
+Fabian Freudensprung TGM
